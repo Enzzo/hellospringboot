@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Hello Spring Boot
+  profiles:
+    active: prod
